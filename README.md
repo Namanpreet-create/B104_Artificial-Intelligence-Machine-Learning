@@ -1,7 +1,7 @@
 # B104_Artificial-Intelligence-Machine-Learning
 ## Project Overview
 
-This repository contains the DV835 individual machine learning project focused on analysing telecom customer data and predicting customer churn.
+This repository contains an individual machine learning project focused on analysing telecom customer data and predicting customer churn.
 
 The project explores customer characteristics, service usage, account information, and billing details to identify patterns associated with customer churn. Machine learning models are developed and evaluated to support customer retention decisions.
 
